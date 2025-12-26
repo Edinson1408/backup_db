@@ -59,7 +59,7 @@ R2_ENDPOINT=https://<ACCOUNT_ID>.r2.cloudflarestorage.com
 
 # CRON (solo Docker)
 CRON_SCHEDULE=0 3 * * *
-
+```
 
 ## ▶️ USO SIN DOCKER
 
